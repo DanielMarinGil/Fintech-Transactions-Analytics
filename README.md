@@ -27,7 +27,8 @@ This project solves a core challenge in global Fintech: **normalizing fragmented
 ---
 
 ### Business Insights
-* **Revenue:** **Germany** is the country that has the highest total amount of transactions accounting **23%** of total revenue, focus in Germany as a target market.
+* **Revenue:** **Germany** is the country that has the highest total amount of transactions accounting **23%** of total revenue, Recommend marketing campaign to transform ocassional clients to top tier as Germany is our target market for having more transactions and opportunity to convert from ocassional to top tier clients.
+* Recommend fidelity program in **France** as most of our top tier clients are from France.
 * **Churn Alert:** Identified a **17.02% Churn Rate**, providing the marketing team with a specific list of **16** "At Risk" customers for re-engagement.
 * **Portfolio Mix:** 19% of the database consists of high-value "Top Tier" customers, while 6% are leads that haven't converted yet.
   
