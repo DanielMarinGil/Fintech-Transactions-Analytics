@@ -35,9 +35,10 @@ This project solves a core challenge in global Fintech: **normalizing fragmented
 ---
 
 ### How to Run
-1.  Run `Database_logic.sql` to initialize the cleaned views.
-2.  Execute `Risk_analysis_engine.py` to generate the segments.
-3.  Open `Fintech_dashboard.pbix` to view the interactive insights.
+1. Run 'Data_sample.ipynb' to generte the synthetic data.
+2. Run 'Database_logic.sql' to initialize the cleaned views.
+3. Execute 'Risk_analysis_engine.py' to generate the segments.
+4. Open 'Fintech_dashboard.pbix' to view the interactive insights.
 
 ---
 
