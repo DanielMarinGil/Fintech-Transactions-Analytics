@@ -1,0 +1,101 @@
+Customer_id,Name,Country,Industry
+1,Client 1,Germany,Tech/IT
+2,Client 2,France,Retail
+3,Client 3,United States of America,Tech/IT
+4,Client 4,France,Healthcare
+5,Client 5,France,Retail
+6,Client 6,United Kingdom,Retail
+7,Client 7,United States of America,Tech/IT
+8,Client 8,United States of America,Healthcare
+9,Client 9,United States of America,Healthcare
+10,Client 10,France,Healthcare
+11,Client 11,Germany,Retail
+12,Client 12,United States of America,Retail
+13,Client 13,Japan,Retail
+14,Client 14,France,Tech/IT
+15,Client 15,United Kingdom,Manufacturing
+16,Client 16,Germany,Retail
+17,Client 17,Japan,Retail
+18,Client 18,Japan,Retail
+19,Client 19,United Kingdom,Retail
+20,Client 20,Germany,Healthcare
+21,Client 21,France,Manufacturing
+22,Client 22,Ireland,Tech/IT
+23,Client 23,Germany,Manufacturing
+24,Client 24,United Kingdom,Retail
+25,Client 25,Japan,Healthcare
+26,Client 26,France,Healthcare
+27,Client 27,Germany,Manufacturing
+28,Client 28,Ireland,Healthcare
+29,Client 29,Ireland,Manufacturing
+30,Client 30,United States of America,Manufacturing
+31,Client 31,United States of America,Manufacturing
+32,Client 32,United Kingdom,Retail
+33,Client 33,Germany,Retail
+34,Client 34,Germany,Retail
+35,Client 35,Japan,Manufacturing
+36,Client 36,Japan,Retail
+37,Client 37,Japan,Manufacturing
+38,Client 38,United States of America,Tech/IT
+39,Client 39,Germany,Retail
+40,Client 40,Germany,Manufacturing
+41,Client 41,Ireland,Healthcare
+42,Client 42,United States of America,Retail
+43,Client 43,France,Retail
+44,Client 44,United States of America,Retail
+45,Client 45,France,Retail
+46,Client 46,Ireland,Tech/IT
+47,Client 47,United Kingdom,Tech/IT
+48,Client 48,Germany,Manufacturing
+49,Client 49,Ireland,Tech/IT
+50,Client 50,Germany,Tech/IT
+51,Client 51,Japan,Retail
+52,Client 52,United Kingdom,Tech/IT
+53,Client 53,United Kingdom,Manufacturing
+54,Client 54,Ireland,Tech/IT
+55,Client 55,United Kingdom,Tech/IT
+56,Client 56,France,Retail
+57,Client 57,United Kingdom,Retail
+58,Client 58,Germany,Retail
+59,Client 59,Germany,Manufacturing
+60,Client 60,Germany,Tech/IT
+61,Client 61,Germany,Tech/IT
+62,Client 62,France,Retail
+63,Client 63,United States of America,Manufacturing
+64,Client 64,Japan,Manufacturing
+65,Client 65,Ireland,Retail
+66,Client 66,Germany,Retail
+67,Client 67,United Kingdom,Retail
+68,Client 68,Germany,Tech/IT
+69,Client 69,United Kingdom,Retail
+70,Client 70,Japan,Manufacturing
+71,Client 71,Japan,Healthcare
+72,Client 72,Japan,Retail
+73,Client 73,United Kingdom,Tech/IT
+74,Client 74,Germany,Tech/IT
+75,Client 75,Japan,Retail
+76,Client 76,France,Manufacturing
+77,Client 77,United Kingdom,Retail
+78,Client 78,United Kingdom,Retail
+79,Client 79,Germany,Retail
+80,Client 80,United Kingdom,Manufacturing
+81,Client 81,United Kingdom,Manufacturing
+82,Client 82,Japan,Retail
+83,Client 83,Germany,Retail
+84,Client 84,Japan,Tech/IT
+85,Client 85,Japan,Retail
+86,Client 86,Germany,Retail
+87,Client 87,Ireland,Manufacturing
+88,Client 88,Japan,Tech/IT
+89,Client 89,France,Retail
+90,Client 90,France,Manufacturing
+91,Client 91,United Kingdom,Healthcare
+92,Client 92,France,Retail
+93,Client 93,United Kingdom,Healthcare
+94,Client 94,Ireland,Retail
+95,Client 95,Germany,Manufacturing
+96,Client 96,Germany,Manufacturing
+97,Client 97,Germany,Manufacturing
+98,Client 98,France,Retail
+99,Client 99,Ireland,Tech/IT
+100,Client 100,France,Retail
